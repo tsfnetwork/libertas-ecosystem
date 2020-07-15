@@ -1,0 +1,12 @@
+body {
+    background: url(../img/loader/loader-bg.png) no-repeat scroll;
+}
+
+.loader {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
